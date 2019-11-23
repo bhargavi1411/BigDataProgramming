@@ -1,0 +1,112 @@
+
+
+ComedyMovie_fightingwithmyfamily :
+positiveReviews = 25
+negetiveReviews = 0
+neutralReviews = 12
+Positive reviews are greater for the movie indicating its well reception by audience
+
+
+KidsMovie_toystory :
+positiveReviews = 238
+negetiveReviews = 9
+neutralReviews = 360
+Positive reviews are greater for the movie indicating its well reception by audience
+
+
+ComedyMovie_thesecretlifeofpets2 :
+positiveReviews = 1
+negetiveReviews = 0
+neutralReviews = 7
+The movie reviews are not opinionated strongly in audiance, so this movie might not have got connected with them
+
+
+SciFiMovie_thewanderingearth :
+positiveReviews = 6
+negetiveReviews = 0
+neutralReviews = 5
+Positive reviews are greater for the movie indicating its well reception by audience
+
+
+ActionMovie_johnwick3 :
+positiveReviews = 90
+negetiveReviews = 3
+neutralReviews = 123
+Positive reviews are greater for the movie indicating its well reception by audience
+
+
+ActionMovie_joker :
+positiveReviews = 105
+negetiveReviews = 1
+neutralReviews = 325
+The movie reviews are not opinionated strongly in audiance, so this movie might not have got connected with them
+
+
+ComedyMovie_playingwithfire :
+positiveReviews = 151
+negetiveReviews = 10
+neutralReviews = 403
+The movie reviews are not opinionated strongly in audiance, so this movie might not have got connected with them
+
+
+ActionMovie_hobbsandshaw :
+positiveReviews = 134
+negetiveReviews = 6
+neutralReviews = 183
+Positive reviews are greater for the movie indicating its well reception by audience
+
+
+SciFiMovie_theriseofskywalker :
+positiveReviews = 213
+negetiveReviews = 15
+neutralReviews = 760
+The movie reviews are not opinionated strongly in audiance, so this movie might not have got connected with them
+
+
+KidsMovie_alladin :
+positiveReviews = 6
+negetiveReviews = 0
+neutralReviews = 12
+Positive reviews are greater for the movie indicating its well reception by audience
+
+
+SciFiMovie_adastra :
+positiveReviews = 61
+negetiveReviews = 1
+neutralReviews = 106
+Positive reviews are greater for the movie indicating its well reception by audience
+
+
+KidsMovie_frozen2 :
+positiveReviews = 2262
+negetiveReviews = 50
+neutralReviews = 4304
+Positive reviews are greater for the movie indicating its well reception by audience
+
+
+ActionMovie_spiderMan :
+positiveReviews = 88
+negetiveReviews = 2
+neutralReviews = 186
+The movie reviews are not opinionated strongly in audiance, so this movie might not have got connected with them
+
+
+KidsMovie_lionKing :
+positiveReviews = 361
+negetiveReviews = 16
+neutralReviews = 709
+Positive reviews are greater for the movie indicating its well reception by audience
+
+
+ComedyMovie_noelle :
+positiveReviews = 731
+negetiveReviews = 9
+neutralReviews = 638
+Positive reviews are greater for the movie indicating its well reception by audience
+
+
+SciFiMovie_terminatordarkfate :
+positiveReviews = 637
+negetiveReviews = 52
+neutralReviews = 1089
+Positive reviews are greater for the movie indicating its well reception by audience

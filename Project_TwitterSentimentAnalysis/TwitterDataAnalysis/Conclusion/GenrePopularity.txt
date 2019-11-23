@@ -1,0 +1,38 @@
+TRENDING HASHTAG = (#frozen,5969)
+===============================
+The first 5 trending hashtags are
+
+(#frozen,5969)
+(#terminatordarkfate,1241)
+(#noelle,1214)
+(#thelionking,821)
+(#theriseofskywalker,649)
+
+
+
+
+TWEET COUNT ANALYSIS FOR EACH GENRE
+=====================================
+The total positive reviews of all movies of each genre against total number of reviews of each genre is as follows
+
+Kids genre positive review count = 2867  for total reviews of 8327
+
+Action genre positive review count = 417  for total reviews of 1246
+
+SciFi genre positive review count = 917  for total reviews of 2945
+
+Comedy genre positive review count = 908  for total reviews of 1987
+
+
+
+
+GENRE			|		POPULARITY
+================================
+Kids   			|		34%
+Action   		|		33%
+Comedy   		|		45%
+SciFi   		|		31%
+
+---------------------------------------------------------------------------
+The most popular genre of 2019 is [COMEDY] With popularity percentage of 45%|
+---------------------------------------------------------------------------
